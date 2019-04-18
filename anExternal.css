@@ -1,0 +1,36 @@
+body {background-color:royalblue;}
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+
+.container {
+    position: relative;
+    text-align: center;
+    color: white;
+  }
+
+.centered {
+    position: absolute;
+    top: 50%;
+    left: 50%;
+    transform: translate(-50%,-50%);
+    color: white;
+}
+
+#img {
+    float: right;
+  }
+
+#round {
+    border-radius: 20px;
+    background: rgb(61, 66, 53);
+    padding: 50px; 
+    width: 100px;
+    height: 250px; 
+    margin-top: 30px;
+}
